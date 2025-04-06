@@ -7,6 +7,9 @@ https://github.com/cedrickchee/AI-Codex/tree/main
 https://github.com/PatrickJS/awesome-cursorrules?tab=readme-ov-file
 
 
+# Web design
+https://notes.switchdimension.com/
+
 # MCP
 https://github.com/appcypher/awesome-mcp-servers
 
