@@ -9,6 +9,7 @@ https://github.com/PatrickJS/awesome-cursorrules?tab=readme-ov-file
 
 # Web design
 https://notes.switchdimension.com/
+https://21st.dev/
 
 # MCP
 https://github.com/appcypher/awesome-mcp-servers
