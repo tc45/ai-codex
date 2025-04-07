@@ -27,7 +27,7 @@ A curated collection of AI projects, resources, tools, and development tips.
 - [LM Studio](https://lmstudio.ai/) - Desktop application for running local LLMs and fine-tuning models.
 - [Ollama](https://ollama.ai/) - Run, create, and modify large language models locally.
 
-# IDE and Code Assistants
+## IDE and Code Assistants
 
 - [Cursor](https://cursor.sh/) - AI-powered code editor built on VSCode with advanced code completion and chat capabilities.
 - [Winsurf](https://winsurf.ai/) - AI code assistant focused on code understanding and refactoring.
