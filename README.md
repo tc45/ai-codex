@@ -75,14 +75,16 @@ A curated collection of AI projects, resources, tools, and development tips.
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - State-of-the-art text-to-image generation.
 - [Whisper](https://github.com/openai/whisper) - Robust speech recognition system.
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - AI-powered software development assistant.
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion with powerful customization.
+
 
 ### ComfyUI Resources & Examples
-- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/) - Comprehensive community-maintained documentation.
-- [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/) - Official examples and workflows.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion with powerful customization.
+  - [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/) - Comprehensive community-maintained documentation.
+  - [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/) - Official examples and workflows.
+  - [ComfyUI Workflows](https://github.com/cubiq/ComfyUI_Workflows) - Curated collection of advanced workflows.
+  - [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Extension manager for custom nodes and workflows.
 - [Civitai](https://civitai.com/tag/comfyui) - Community-shared ComfyUI workflows and models. (May be blocked via business access due to NSFW content)
-- [ComfyUI Workflows](https://github.com/cubiq/ComfyUI_Workflows) - Curated collection of advanced workflows.
-- [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Extension manager for custom nodes and workflows.
+
 
 
 ## Learning Resources
