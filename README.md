@@ -82,6 +82,10 @@ A curated collection of AI projects, resources, tools, and development tips.
 - [Eugene Yan's AI System Design](https://eugeneyan.com/writing/llm-patterns/) - Practical patterns and architectures for LLM applications.
 - [Simon Willison's AI Knowledge](https://simonwillison.net/tags/ai/) - Insightful articles on latest AI developments and implementations.
 - [Lilian Weng's AI Blog](https://lilianweng.github.io/) - Deep dives into AI agents, LLMs, and emerging AI concepts.
+- [John Capobianco's AI Blog](https://medium.com/@john_capobianco) - Practical AI engineering and automation tutorials.
+- [John Capobianco's GitHub](https://github.com/automateyournetwork) - Network automation and AI projects repository.
+- [John Capobianco's YouTube](https://www.youtube.com/@johncapobianco) - Video tutorials on AI, automation and network engineering.
+
 
 
 ---
