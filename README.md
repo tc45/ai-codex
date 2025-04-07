@@ -14,7 +14,6 @@ A curated collection of AI projects, resources, tools, and development tips.
 
 - [Switch Dimension Notes](https://notes.switchdimension.com/) - Development notes and resources for modern web development.
 - [21st.dev](https://21st.dev/) - Modern UI component library and design system resources.
-- [Refactoring UI](https://www.refactoringui.com/) - Learn UI design from the creators of Tailwind CSS.
 - [web.dev](https://web.dev/) - Google's official guidance for modern web development.
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Professional resources for web designers and developers.
 - [Frontend Masters](https://frontendmasters.com/guides/) - In-depth guides for frontend development.
@@ -43,25 +42,35 @@ A curated collection of AI projects, resources, tools, and development tips.
 
 ## MCP (Model Context Protocol) Resources
 
+- [MCP Intro](https://modelcontextprotocol.io/introduction) - Comprehensive guides and API documentation for MCP.
+- [MCP Examples](https://modelcontextprotocol.io/examples) - Example implementations and use cases of MCP in different languages.
+- [MCP Tools](https://github.com/f/mcptools) - Collection of utilities and tools for working with MCP.
 - [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers) - Curated list of Multi-Cloud Platform servers and implementations.
 - [Magic MCP](https://github.com/21st-dev/magic-mcp) - Tools and utilities for MCP development by 21st.dev.
-- [MCP Specification](https://github.com/microsoft/model-context-protocol) - Official Model Context Protocol specification and documentation.
-- [MCP.js](https://github.com/mcp-js/mcp) - JavaScript implementation of the Model Context Protocol.
-- [MCP Tools](https://github.com/model-context/mcp-tools) - Collection of utilities and tools for working with MCP.
-- [MCP Examples](https://github.com/model-context/examples) - Example implementations and use cases of MCP in different languages.
-- [MCP Documentation](https://model-context-protocol.readthedocs.io/) - Comprehensive guides and API documentation for MCP.
+- [MCP Specification](https://github.com/modelcontextprotocol) - Official Model Context Protocol specification and documentation.
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - Python SDK implementation of the Model Context Protocol.
+- [MCP Typescript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - Typescript SDK implementation of the Model Context Protocol.
+- [MCP Servers](https://github.com/modelcontextprotocol/servers) - Official Model Context Protocol server implementations and examples.
 
 ## AI Projects & Applications
 
 ### Games
 - [Vibe Jet](https://github.com/cedrickchee/vibe-jet) - Game development project repository.
 - [ML-Agents](https://github.com/Unity-Technologies/ml-agents) - Unity plugin for training intelligent agents.
-- [OpenAI Gym](https://github.com/openai/gym) - Toolkit for developing and comparing reinforcement learning algorithms.
 
 ### AI Tools & Utilities
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - State-of-the-art text-to-image generation.
 - [Whisper](https://github.com/openai/whisper) - Robust speech recognition system.
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - AI-powered software development assistant.
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion with powerful customization.
+
+### ComfyUI Resources & Examples
+- [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/) - Comprehensive community-maintained documentation.
+- [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/) - Official examples and workflows.
+- [Civitai](https://civitai.com/tag/comfyui) - Community-shared ComfyUI workflows and models.
+- [ComfyUI Workflows](https://github.com/cubiq/ComfyUI_Workflows) - Curated collection of advanced workflows.
+- [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Extension manager for custom nodes and workflows.
+
 
 ## Learning Resources
 - [Fast.ai](https://www.fast.ai/) - Practical Deep Learning for Coders.
