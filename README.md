@@ -67,7 +67,7 @@ A curated collection of AI projects, resources, tools, and development tips.
 ### ComfyUI Resources & Examples
 - [ComfyUI Community Manual](https://blenderneko.github.io/ComfyUI-docs/) - Comprehensive community-maintained documentation.
 - [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/) - Official examples and workflows.
-- [Civitai](https://civitai.com/tag/comfyui) - Community-shared ComfyUI workflows and models.
+- [Civitai](https://civitai.com/tag/comfyui) - Community-shared ComfyUI workflows and models. (May be blocked via business access due to NSFW content)
 - [ComfyUI Workflows](https://github.com/cubiq/ComfyUI_Workflows) - Curated collection of advanced workflows.
 - [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) - Extension manager for custom nodes and workflows.
 
@@ -75,7 +75,14 @@ A curated collection of AI projects, resources, tools, and development tips.
 ## Learning Resources
 - [Fast.ai](https://www.fast.ai/) - Practical Deep Learning for Coders.
 - [DeepLearning.AI](https://www.deeplearning.ai/) - Educational resources for AI and ML.
-- [MIT OpenCourseWare AI](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) - Comprehensive AI course materials.
+- [Matthew Berman's AI Course](https://www.mattberman.ai/course) - Practical AI engineering with modern tools and frameworks.
+- [Andrej Karpathy's Neural Networks Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) - Zero to Hero series on neural networks and deep learning.
+- [Jeremy Howard's Practical Deep Learning](https://course.fast.ai/) - Hands-on deep learning course for practitioners.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - Comprehensive guide to effective prompt engineering and LLM interaction.
+- [Eugene Yan's AI System Design](https://eugeneyan.com/writing/llm-patterns/) - Practical patterns and architectures for LLM applications.
+- [Simon Willison's AI Knowledge](https://simonwillison.net/tags/ai/) - Insightful articles on latest AI developments and implementations.
+- [Lilian Weng's AI Blog](https://lilianweng.github.io/) - Deep dives into AI agents, LLMs, and emerging AI concepts.
+
 
 ---
 *This repository is actively maintained and updated with new resources and projects.*
