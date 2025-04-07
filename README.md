@@ -27,7 +27,20 @@ A curated collection of AI projects, resources, tools, and development tips.
 - [LM Studio](https://lmstudio.ai/) - Desktop application for running local LLMs and fine-tuning models.
 - [Ollama](https://ollama.ai/) - Run, create, and modify large language models locally.
 
+# IDE and Code Assistants
+
+- [Cursor](https://cursor.sh/) - AI-powered code editor built on VSCode with advanced code completion and chat capabilities.
+- [Winsurf](https://winsurf.ai/) - AI code assistant focused on code understanding and refactoring.
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that suggests code completions and entire functions.
+- [Augment Code](https://augment.dev/) - AI code review and documentation assistant.
+- [Codeium](https://codeium.com/) - Free AI coding assistant with multi-IDE support.
+- [Tabnine](https://www.tabnine.com/) - AI code completion tool supporting multiple languages and IDEs.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI coding companion with security scanning capabilities.
+- [Replit Ghost Writer](https://replit.com/site/ghostwriter) - AI pair programmer integrated into Replit's online IDE.
+
+
 ## Agentic AI
+
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing AI agents.
 - [AutoGen](https://github.com/microsoft/autogen) - Framework for building multi-agent systems with conversational AI.
 - [LangChain Ecosystem](https://github.com/langchain-ai)
